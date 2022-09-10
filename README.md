@@ -1,2 +1,2 @@
 # Restaurant-App-UI
-Using Figma 
+Using Figma Software
